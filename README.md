@@ -14,7 +14,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiichi7580&theme=vue)
 ![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/kiichi7580/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
