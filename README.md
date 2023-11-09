@@ -12,7 +12,6 @@
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiichi7580&theme=vue)
-![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg)
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/kiichi7580/kiichi7580/main/img/snake.svg) 
 
