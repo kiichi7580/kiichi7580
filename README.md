@@ -4,17 +4,17 @@
 - 🌱 I’m currently learning **React.js,Flutter**
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<a href="https://github.com/Haru-Kobayashi073">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Haru-Kobayashi073&count_private=true&show_icons=true&theme=dark" />
+<a href="https://github.com/kiichi7580">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kiichi7580&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/Haru-Kobayashi073">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Kobayashi073&layout=compact&theme=dark" />
+<a href="https://github.com/kiichi7580">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiichi7580&layout=compact&theme=dark" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haru-Kobayashi073&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiichi7580&theme=vue)
 ![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Haru-Kobayashi073)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
