@@ -13,9 +13,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiichi7580&theme=vue)
 
-![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg)
-
-![Snake animation](https://github.com/kiichi7580/kiichi7580/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://github.com/kiichi7580/kiichi7580/assets/130330354/8cef0383-2474-4c1e-99ca-e09824a0bd2a)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/kiichi7580/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
