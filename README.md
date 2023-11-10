@@ -15,7 +15,7 @@
 
 ![github-user-contribution](https://user-images.githubusercontent.com/103411556/236621135-bc74bc4f-1f99-43f4-b07a-18c08307edda.svg)
 
-![Snake animation](https://github.com/kiichi7580/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kiichi7580/kiichi7580/blob/output/github-contribution-grid-snake.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiichi7580)](https://github.com/kiichi7580/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
