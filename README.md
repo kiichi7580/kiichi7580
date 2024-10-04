@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kiichi</h1>
 <h3 align="center">A passionate beginner developer from Japan</h3>
 
-- 🌱 I’m currently learning **React.js,Flutter**
+- 🌱 I’m currently learning **Flutter, Ruby on Rails**
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <a href="https://github.com/kiichi7580">
